@@ -1,1 +1,2 @@
-# servetisikli.github.io
+- servetisikli.github.io
+- https://servetisikli.github.io/
